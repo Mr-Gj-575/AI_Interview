@@ -29,7 +29,7 @@ An AI-powered system that generates technical interview questions, evaluates ans
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/AI_Interview.git
+git clone https://github.com/Mr-Gj-575/AI_Interview.git
 cd AI_Interview
 
 # 2. Install dependencies
